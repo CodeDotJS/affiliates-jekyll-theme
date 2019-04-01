@@ -29,7 +29,7 @@ Imagine a bacterium as a complex machine, with thousands of intricate processes 
 But gradually, evolution has made things quite complicated. By random chance, certain bacteria invading the body might have evolved immunity to protect themselves. For example, intercepting the antibiotics and changing them before they can harm. A few immune bacteria are not a problem unless one of them escapes. Bacteria have this ability to share this immunity with other bacteria cells as well.
 
 <figure>
-	<img class="post-image pslogo" src="assets/posts/aryaman/post1/1.jpg">
+	<img class="post-image pslogo" src="https://raw.githubusercontent.com/CodeDotJS/pedestal/master/assets/posts/aryaman/post1/1.jpg">
 	<figcaption>Superbugs</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ To counteract this, we have stronger antibiotics to combat these resistant bacte
 
 
 <figure>
-	<img class="post-image pslogo" src="assets/posts/aryaman/post1/2.jpg">
+	<img class="post-image pslogo" src="https://raw.githubusercontent.com/CodeDotJS/pedestal/master/assets/posts/aryaman/post1/2.jpg">
 	<figcaption>Colistin resistance and Neonatal Sepsis</figcaption>
 </figure>
 

@@ -24,28 +24,28 @@ These friends help you in many ways, that include applications that feature:
 Top five apps picked for you with varied features are:
 
 <figure>
-	<img class="post-image pslogo" src="assets/posts/saumya/post1/1.png">
+	<img class="post-image pslogo" src="https://raw.githubusercontent.com/CodeDotJS/pedestal/master/assets/posts/saumya/post1/1.png">
 	<figcaption>Paicifica</figcaption>
 </figure>
 
 - __Pacifica__: This app comprises Cognitive Behavioral Therapy, meditation, and trackers for mood and health. Voted as the “Best of 2017” on Play Store, it customizes its user interface according to the person’s needs. The main motto behind it was to overcome the barriers of traditional methods.
 
 <figure>
-	<img class="post-image pslogo" src="assets/posts/saumya/post1/2.png">
+	<img class="post-image pslogo" src="https://raw.githubusercontent.com/CodeDotJS/pedestal/master/assets/posts/saumya/post1/2.png">
 	<figcaption>Simple Habit</figcaption>
 </figure>
 
 - __Simple Habit__: With the thought of adding peace to a busy schedule, Simple Habit is an app with audio sessions with short time durations. Counselors from around the world have provided their help. Avenues like meditation, therapy, sleep sounds, health, well-being, focus, sleep, etc., are included in this app.
 
 <figure>
-	<img class="post-image pslogo" src="assets/posts/saumya/post1/3.png">
+	<img class="post-image pslogo" src="https://raw.githubusercontent.com/CodeDotJS/pedestal/master/assets/posts/saumya/post1/3.png">
 	<figcaption>Youper</figcaption>
 </figure>
 
 - __Youper__: It is a Chat-bot, which is an assistant for keeping your mental health in check. This app entails features like tests on personality, emotion, health, and mood. It derives information in an interactive way and helps you track all your mental health and well-being in one place. Conversing with Youper is so interactive that many reviews state that it feels as if talking to a friend.
 
 <figure>
-	<img class="post-image pslogo" src="assets/posts/saumya/post1/4.png">
+	<img class="post-image pslogo" src="https://raw.githubusercontent.com/CodeDotJS/pedestal/master/assets/posts/saumya/post1/4.png">
 	<figcaption>Rootd</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Top five apps picked for you with varied features are:
 - __Rootd__: It helps to control panic attacks and anxiety. Rootd makes sure to help you understand the reasons for a panic attack and how it can be overcome and even reduced. With the tracker feature, you are able to see how much progress you have made.
 
 <figure>
-	<img class="post-image pslogo" src="assets/posts/saumya/post1/5.png">
+	<img class="post-image pslogo" src="https://raw.githubusercontent.com/CodeDotJS/pedestal/master/assets/posts/saumya/post1/5.png">
 	<figcaption>Mood Tools</figcaption>
 </figure>
 
