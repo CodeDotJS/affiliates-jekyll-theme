@@ -33,7 +33,7 @@ It occurred to me on a random day. I realized and agreed that “yeah, she is th
 
 
 <figure>
-	<img class="post-image" src="/assets/posts/saumya/post2/1.jpg">
+	<img class="post-image" src="assets/posts/saumya/post2/1.jpg">
 </figure>
 
 ##### - Since most of the artists have idols or someone whose music they follow. Who is yours?
@@ -83,5 +83,5 @@ Also, I love dogs. #doggoteam. I have a cat, a dog, and a bird too.
 Chu Lo - The Local Train
 
 <figure>
-	<img class="post-image" src="/assets/posts/saumya/post2/2.jpg">
+	<img class="post-image" src="assets/posts/saumya/post2/2.jpg">
 </figure>

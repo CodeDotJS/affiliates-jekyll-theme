@@ -17,7 +17,7 @@ The non-realistic type of drawings, funny use of colour, and unconventional meth
 The concept of Abstraction is easy to understand, but it is extremely difficult to follow. The word “abstract” refers to all those elements which are present in the universe that do not physically coexist but has a state of being.  Such elements include subjects like the concept of love, sadness, excitement and a variety of emotions. Even the aspect of spirituality comes under the umbrella of Abstraction. Hence, the subject of Abstraction encompasses many such thoughts that cannot be found in a solid, tangible form but are felt by us in everyday reality. Therefore, it is safe to say that the concept of Abstract painting is about communicating such intangible elements of the universe, which coexist alongside the physical world. The statements and questions that we hold about abstract art, like “anyone could do this”, or “what is the meaning of such absurdity”, are actually wrong. Abstract art requires a very good understanding of colour, rhythm, balance, harmony, textures, and a good perception of aesthetics. These skills can only be achieved when an artist has already passed the tests of creating conventional artworks. By conventional art, I mean, the art which is generally appreciated by the public. This primarily includes artworks like portraits, still life, landscapes and the like.
 
 <figure>
-	<img class="post-image" src="/assets/posts/soham/post1/1.jpg">
+	<img class="post-image" src="assets/posts/soham/post1/1.jpg">
 	<figcaption>Vincent Van Gogh’s Starry Night</figcaption>
 </figure>
 
@@ -28,42 +28,42 @@ The inception of The Industrial Revolution and the change in lifestyle of the Eu
 The disorder and disarray in the European society were shown in a somewhat different way in Germany on account of the Industrial Revolution. Here, artists totally shifted away from depicting any form of naturalistic components in artworks and created an absolutely unrealistic style of paintings. The focus was made on just the colour, and absurd alien-like shapes started filling the canvases. Thus, began the birth of the age of Expressionism. One of the earliest examples of German expressionist art is Ernest Ludwig Kirchner’s Dresden Street, which uses abstraction, unnatural, and unreal colours to depict chaos and anxiety of the modern world.
 
 <figure>
-	<img class="post-image" src="/assets/posts/soham/post1/2.jpg">
+	<img class="post-image" src="assets/posts/soham/post1/2.jpg">
 	<figcaption>Giacomo Balla’s Patriotic Demonstration</figcaption>
 </figure>
 
 Apart from the influences of the Industrial Revolution, the era of Expressionism was also motivated by African Tribal Art, Russian Folk Art, and art by children. The contemporaries of Kirchner became extremely influenced by such subjects- primarily Franz Marc and Wassily Kandinsky. Marc used Abstraction to connect with the natural world. His famous works like The Yellow Cow and Deer in a Monastery Garden used colour and texture to draw the emotion of the audience to what the artist actually feels about the natural world. While Marc focused on the natural world, Kandinsky took inspiration from the spiritual world.  The most famous quote of Kandinsky was: “My art is what the spectator lives or feels under the effect of the form and colour combinations of the picture”. For Kandinsky, abstraction was not opposed to realism, but it was realism. He attributed abstract concepts like spiritual enlightenment, consciousness, emotions, and transcendence to be real elements present in the world. Kandinsky’s Square with concentric circles and his Compositions are one of his best works.
 
 <figure>
-	<img class="post-image" src="/assets/posts/soham/post1/3.jpg">
+	<img class="post-image" src="assets/posts/soham/post1/3.jpg">
 	<figcaption>Pablo Picasso’s Weeping Woman</figcaption>
 </figure>
 
 Expressionism also led to the birth of Cubism pioneered by Pablo Picasso and Diego Rivera. The idea of Cubism revolved around breaking subject matter into different geometric shapes and showing multiple sides of the subjects at once. It was a way to fuse multiple perspectives and moments in time at once. One of my favourite paintings of this era is Picasso’s Guernica and The Girl with the Mandolin.  Guernica is seen as a protest to the Nazi bombing of the town of Guernica. It depicts the horrifying images of war and tragedy by condensing the special limitations of the canvas and volunteering to give a three-dimensional effect to it.
 
 <figure>
-	<img class="post-image" src="/assets/posts/soham/post1/4.jpg">
+	<img class="post-image" src="assets/posts/soham/post1/4.jpg">
 	<figcaption>Franz Marc’s Broken Forms</figcaption>
 </figure>
 
 Science also had a great influence on Abstract Art. Artists like Hilma Aft Klint painted pictures like Primordial Chaos by combining spirituality and her interest in science. She aimed in depicting invisible forces in her paintings like X rays, infrared rays and many alike invisible rays from the spectrum.
 
 <figure>
-	<img class="post-image" src="/assets/posts/soham/post1/5.jpg">
+	<img class="post-image" src="assets/posts/soham/post1/5.jpg">
 	<figcaption>Jackson Pollock’s Blue Poles</figcaption>
 </figure>
 
 This new form of Abstract Art had begun to astonish the world. Another art form started by Annie Besant and Charles Leadbeater, called “thought-forms” became widely popular. They also published a book by the same name in 1901 claiming their works to be “vague pure emotions”. They painted and printed extremely unusual images, saying that “emotions, sounds, ideas etc, manifest as visual auras”.
 
 <figure>
-	<img class="post-image" src="/assets/posts/soham/post1/6.jpg">
+	<img class="post-image" src="assets/posts/soham/post1/6.jpg">
 	<figcaption>Piet Mordian’s The Grey Tree</figcaption>
 </figure>
 
 As the years passed by, Art was becoming more and more unusual and at the same time, very personal. Artists began to see the world through their own subjective filters. Piet Mondrian devised his own way of seeing nature around him. Mondrian stripped away the naturalistic components of a particular image and started simplifying them into gridded arrangements in form of vertical and horizontal lines, creating binary oppositions. Some of the most famous works of Piet Mondrian are The Grey Tree and Composition with Red, Yellow, Blue, and Black.   Jackson Pollock, tremendously influenced by the Abstract Art culture, made his paintings by placing the canvas on the ground and used unconventional materials like sand and sawdust. He took buckets of house paint, dipped his brushes into them and sprinkled it randomly on the canvas. The result was never a painting with disproportionate colouring and random textures, but was smooth, balanced, and rhythmic and had a harmony attached to it. Blue Poles and Autumn Rhythm are my personal favourite.
 
 <figure>
-	<img class="post-image" src="/assets/posts/soham/post1/7.jpg">
+	<img class="post-image" src="assets/posts/soham/post1/7.jpg">
 	<figcaption>Mark Rothko’s Number 15</figcaption>
 </figure>
 

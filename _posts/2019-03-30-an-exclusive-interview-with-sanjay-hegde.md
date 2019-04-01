@@ -23,7 +23,7 @@ See, thirty years is a long period in a lifetime, but for a lawyer, it’s a pre
 I don’t know what goes on inside the collegium. People who have been inside the Collegium have also said that it is an entirely non-transparent medium. Justice Ruma Pal said in an interview said, “What happens in the collegium is one of the best-kept secrets.” Collegium is a very transient body because people keep on retiring. It is not like the same team remains for a period of two to three years and has the body of selection. What happens is, a selection committee approves of a few names, and when the composition of the selection committee changes, the next set comes and disproves it on the grounds that someone else is more deserving. However, the transparency has somehow increased in recent times, primarily because Justice Chelameswar insisted on it. And resolutions and updates are being put out through the websites. I do not think that the transparency is enough, but I would also like to say that in some cases, transparency is working against the system.
 
 <figure>
-	<img class="post-image" src="/assets/posts/mrigank/post1/1.jpg">
+	<img class="post-image" src="assets/posts/mrigank/post1/1.jpg">
 </figure>
 
 ##### Q-Sir, pendency in Judiciary is an issue that India is facing. Justice Dipak Misra expressed concerns at the3.3 crores figure. Recently, the figures touched 4 crores, and the graph keeps changing in terms of the High Court, Supreme Court, and Lower courts. What do you think is the way forward in decreasing the pendency of cases?
@@ -35,7 +35,7 @@ I do not think that careers are going to decrease. As more and more people becom
 See, previously the convention was, if in a criminal case there were charges filed by the court (as opposed to the charge-sheet filed by the police) then at that stage, with the framing of charges by the court and the matter going to the trial, the politician needed to step down from the elections. Because any political party can file an FIR against the candidate of the opposition, and file a charge-sheet, to get them out of the elections, but no one can force the courts to admit the charges and move the matter to trial.
 
 <figure>
-	<img class="post-image" src="/assets/posts/mrigank/post1/2.jpg">
+	<img class="post-image" src="assets/posts/mrigank/post1/2.jpg">
 </figure>
 
 ##### Q-Sir, what are your thoughts on women entering the Sabarimala temple? Is it the case of violation of Article 25 (freedom of conscience and free profession of religion), or Article 14 (equality before the law, and equal protection by the law)?
@@ -43,7 +43,7 @@ See, previously the convention was, if in a criminal case there were charges fil
 Our constitution also has Article 17 (abolishing untouchability). It was specifically put in to open all temples to all people; not only with regards to caste. Now, what happened in Sabarimala, there was a rule that was created under an Act after a judgment of the Kerala High Court; that was seen to be unconstitutional! There was no divine, God-spoken law in ancient tradition or custom that was challenged. Let us assume that an ancient custom was challenged, even that has to yield to the constitution. It was pointed out in front of the court that the essential religious practice is particularr to religion, not to the places of worship.
 
 <figure>
-	<img class="post-image" src="/assets/posts/mrigank/post1/3.jpg">
+	<img class="post-image" src="assets/posts/mrigank/post1/3.jpg">
 </figure>
 
 ##### Q-Sir, as per Section 375 of the IPC, only a man commits the offense of rape and not a woman. Do you think this section should be amended and made gender neutral?
