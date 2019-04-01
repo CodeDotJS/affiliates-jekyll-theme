@@ -1,22 +1,17 @@
 ---
 layout: page
 title: About
-comments: true
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+<center>
 
-**License & Download**
+	<img class="about-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fist.svg/2000px-Fist.svg.png" alt="">
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+</center>
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
+<br>
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+We are a community supporting creative enthusiasts and strive to translate innovative ideas into constructive actions. We aim to provide
+a platform for budding opinion makers to explore and express themselves in furtherance of professionalism.
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
+Pedestal India is an independent initiative, led by the students of Amity School of Communication.
