@@ -4,6 +4,7 @@ title: "Pedestal"
 description: "Your Voice Does Make a Difference"
 meta_description: "Your Voice Does Make a Difference"
 logo: 'assets/images/logo.png'
+midlogo: 'assets/images/LOGO.png'
 favicon: 'assets/images/fevicon.png'
 paginate: 12
 baseurl: '/'
