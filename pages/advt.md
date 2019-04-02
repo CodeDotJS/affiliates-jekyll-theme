@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Advertise With Us!"
+title: "Advertise with us"
 ---
 
 <center>
